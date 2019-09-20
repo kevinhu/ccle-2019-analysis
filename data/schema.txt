@@ -1,0 +1,26 @@
+file_name	description	source_website
+CCLE_DepMap_18q3_maf_20180718.txt	"Merged mutation calls (coding region, germline filtered)"	portals.broadinstitute.org/ccle/data
+CCLE_Fusions_20181130.txt	CCLE fusion calls for 1019 cell lines	portals.broadinstitute.org/ccle/data
+CCLE_Fusions_unfiltered_20181130.txt	Unfiltered STAR-Fusion calls	portals.broadinstitute.org/ccle/data
+CCLE_translocations_SvABA_20181221.xlsx	CCLE structural variants (SvABA calls) for 329 cell lines	portals.broadinstitute.org/ccle/data
+CCLE_miRNA_20181103.gct	CCLE miRNA expression data	portals.broadinstitute.org/ccle/data
+CCLE_GlobalChromatinProfiling_20181130.csv	CCLE Global Chromatin Profiling data	portals.broadinstitute.org/ccle/data
+CCLE_RPPA_20181003.csv	CCLE Reverse Phase Protein Array (RPPA) data	portals.broadinstitute.org/ccle/data
+CCLE_RPPA_Ab_info_20181226.csv	RPPA antibody information	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_genes_rpkm_20180929.gct.gz	CCLE RNAseq gene expression data for 1019 cell lines (RPKM)	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_rsem_genes_tpm_20180929.txt.gz	"CCLE RNAseq gene expression data for 1019 cell lines (RSEM, gene)"	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_rsem_transcripts_tpm_20180929.txt.gz	"CCLE RNAseq gene expression data for 1019 cell lines (RSEM, transcript)"	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_genes_counts_20180929.gct.gz	CCLE RNAseq gene expression data for 1019 cell lines (read counts)	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_ExonUsageRatio_20180929.gct.gz	CCLE RNAseq gene expression data for 1019 cell lines (Exon inclusion ratios)	portals.broadinstitute.org/ccle/data
+CCLE_RNAseq_ExonUsageRatio_denominatorCnt_20180929.gct.gz	CCLE RNAseq gene expression data for 1019 cell lines (Exon inclusion ratio denominator)	portals.broadinstitute.org/ccle/data
+gencode.v19.genes.v7_model.patched_contigs.gtf.gz	"Gene definitions (GENCODE19, GTEx7)"	portals.broadinstitute.org/ccle/data
+CCLE_RRBS_TSS1kb_20181022.txt.gz	CCLE DNA methylation data (promoter 1kb upstream TSS	portals.broadinstitute.org/ccle/data
+CCLE_RRBS_tss_CpG_clusters_20181022.txt.gz	CCLE DNA methylation data (promoter CpG clusters)	portals.broadinstitute.org/ccle/data
+CCLE_RRBS_cgi_CpG_clusters_20181119.txt.gz	CCLE DNA methylation data (CpG islands)	portals.broadinstitute.org/ccle/data
+CCLE_RRBS_enh_CpG_clusters_20181119.txt.gz	CCLE DNA methylation data (VISTA enhancers)	portals.broadinstitute.org/ccle/data
+CCLE_ABSOLUTE_combined_20181227.xlsx	CCLE ABSOLUTE copy number analysis results	portals.broadinstitute.org/ccle/data
+Cell_lines_annotations_20181226.txt	Cell line annotations	portals.broadinstitute.org/ccle/data
+CCLE_metabolomics_20190502.csv	"CCLE metabolomics dataset (clean, imputed)"	portals.broadinstitute.org/ccle/data
+Achilles_gene_effect.csv	"DepMap Avana CRISPR-cas9 screening dependency scores, 19Q3 release"	depmap.org/portal/download/
+D2_Achilles_gene_dep_scores.csv	"DepMap Achilles RNAi screening dependency scores, DEMETER2 v5"	depmap.org/portal/download/
+D2_DRIVE_gene_dep_scores.csv	"Novartis DRIVE RNAi screening dependency scores, DEMETER2 v5"	depmap.org/portal/download/
