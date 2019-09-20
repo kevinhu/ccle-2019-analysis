@@ -26,3 +26,4 @@ D2_Achilles_gene_dep_scores.csv	"DepMap Achilles RNAi screening dependency score
 D2_DRIVE_gene_dep_scores.csv	"Novartis DRIVE RNAi screening dependency scores, DEMETER2 v5"	depmap.org/portal/download/
 CCLE_gene_cn.csv	Gene-level copy number ratios, log2(relative to ploidy + 1)	depmap.org/portal/download/
 depmap_19Q1_mutation_calls.csv	Gene-level mutation calls and classifications	depmap.org/portal/download/
+sample_info.csv	Cell line metadata	depmap.org/portal/download/
