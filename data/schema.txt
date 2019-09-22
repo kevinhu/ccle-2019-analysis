@@ -32,3 +32,4 @@ sample_info.csv	Cell line metadata	depmap.org/portal/download/
 41586_2019_1186_MOESM10_ESM.xlsx	Microsatellite instability (MSI) annotations	Supplementary Table 7
 9606.protein.links.v11.0.txt.gz	STRING-DB protein-protein links	https://string-db.org/cgi/download.pl?species_text=Homo+sapiens
 ensembl_gene_protein.txt	ENSEMBL gene-transcript-protein mapping	http://useast.ensembl.org/biomart/
+CTRPv2.0_2015_ctd2_ExpandedDataset.zip	CTRP drug response AUC scores	ftp://caftpd.nci.nih.gov/pub/OCG-DCC/CTD2/Broad/CTRPv2.0_2015_ctd2
