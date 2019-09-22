@@ -31,3 +31,4 @@ sample_info.csv	Cell line metadata	depmap.org/portal/download/
 41586_2019_1186_MOESM8_ESM.xlsx	TERT promoter mutation annotations	Supplementary Table 5
 41586_2019_1186_MOESM10_ESM.xlsx	Microsatellite instability (MSI) annotations	Supplementary Table 7
 9606.protein.links.v11.0.txt.gz	STRING-DB protein-protein links	https://string-db.org/cgi/download.pl?species_text=Homo+sapiens
+ensembl_gene_protein.txt	ENSEMBL gene-transcript-protein mapping	http://useast.ensembl.org/biomart/
